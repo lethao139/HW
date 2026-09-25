@@ -48,7 +48,7 @@ Ngày thực hiện: 24/09/2026 <br>
    *The reason:* cause i feel it fit with me <br>
 
 **Phần 3: Phân tích SWOT cá nhân** <br>
- Where am i ?
+ Where am i ? <br>
  *-Inside*
  <!--Markdown-->
 | Strengths | Detail ( have evidence ) | 
