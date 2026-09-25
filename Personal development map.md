@@ -1,6 +1,6 @@
 **Họ và tên: Lê Minh Thảo** <br>
 Ngày thực hiện: 24/09/2026 <br>
-*PHẦN 1: Khám phá bản thân bằng IKIGAI* <br>
+**PHẦN 1: Khám phá bản thân bằng IKIGAI** <br>
 **Step 1: What I love**
 <!--Markdown-->
 | Favourite | Why | How do i usually spend my time ? |
