@@ -15,7 +15,7 @@ Ngày thực hiện: 24/09/2026 <br>
 
 | Im good at | Evidence | Rate 1-5 | 
 | ------------- | ------------- | ------------- | 
-| Presentation | Even presentation front of class/seminar by English/ Vietnamses  | 2 (not confident art all) |
+| Presentation | Even presentation front of class/seminar by English/ Vietnamses  | 2 (not confident at all) |
 | Basic Microsoft offices skill | Have certificacte MOS | 3 |
 | Information processing detail | Ever work with many data and know use screaming, scandinng | 3 |
 | can use english | IETLS 6.0 | 2 |
