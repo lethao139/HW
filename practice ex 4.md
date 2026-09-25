@@ -134,9 +134,14 @@ Plan calendar for 1 week
 | CN | Present | 22h-22h15 | 15' | 5' |  | <br>
 
 **Phần 10: Đo lường tiến độ** <br>
-|  |  |  |  |  |
+| Rate | Now | Target | Method | Checking frequency |
 | --- | --- | --- | --- | --- | --- |
+| IELTS | 6.0 | 7.0 | Mock test | every month |  
+| Present | 25-Sep | 25-Dec | Peer fb | every month |  
+| Python | 0 | 3 produce | Product quality | 1 time per 2 week |  
+| C++ | 0 | 3 produce | Product quality | every week |  <br>
 
+**
 
 
 
