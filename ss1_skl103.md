@@ -180,16 +180,8 @@ Dự kiến xong:
 
 **Chữ ký thư ký:** ...
 
-### How the RACI & TWA Work Together
 
-The filled RACI matrix assigns every task a single Accountable owner, while the TWA sets concrete rules for messaging, storage, meetings, and late handling. Together they turn the group's vague “split it up and merge later” approach into a clear, accountable workflow.
-
-- **RACI clarity** – Each row shows exactly one A, so no task lacks a final owner. Tuấn holds two A roles for outline and submission, while Nam, Mai, and Linh each own a key workstream.
-- **Daily progress updates** – The TWA requires a 21:00 check-in with a fixed template, replacing vague emoji reactions with specific status, blockers, and completion estimates.
-- **Deadline buffers** – Internal deadlines run one day before the real deadline, and Mai sends a draft outline early so Linh can start slides in parallel.
-- **Enforced response times** – Tagged messages need a reply within three hours between 07:00 and 22:00; after 22:00 replies are due by 09:00 the next morning.
-- **Escalation ladder** – Late responses trigger a private message, then a group reminder plus support, and finally a RACI adjustment or instructor notification after 48 hours.
 ---
 
-**Optimization Tip:** Replace the placeholder names, class code, and signature/date fields with your actual group information. You can also adjust the response-time limits (3 hours), meeting schedule, or file-naming examples to match your group's availability.
+
    
