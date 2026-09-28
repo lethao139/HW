@@ -11,7 +11,7 @@
 | **Bài tập** | BTTH Session 01 – Phân công RACI & Thỏa thuận TWA |
 | **Nhóm** | Nhóm 03 – Lớp SKL103.01 |
 | **Đề tài** | Tìm hiểu về lịch sử phát triển của máy tính cá nhân và xu hướng công nghệ số |
-| **Thành viên** | 1. Tuấn (Nhóm trưởng) 2. Mai 3. Nam 4. Linh |
+| **Thành viên** | 1. (Nhóm trưởng) 2. Thảo|
 | **Thời lượng** | 60 phút làm việc trên lớp |
 | **Hạn nộp** | Sau 2 tuần kể từ buổi giao đề |
 | **Sản phẩm** | (1) Báo cáo Word 8–10 trang (2) Slide PowerPoint 12 trang |
