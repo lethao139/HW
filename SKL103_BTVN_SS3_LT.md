@@ -1,4 +1,4 @@
-Chuẩn hóa Giao tiếp và Trách nhiệm nhóm: Vòng lặp đóng, Họp nhanh 15 phút và Phản hồi SBI
+Chuẩn hóa Giao tiếp và Trách nhiệm nhóm: Vòng lặp đóng, Họp nhanh 15 phút và Phản hồi SBI <br>
 **Task 1: Closed-loop** 
 @Cậu ơi, mình nhờ cậu một việc cụ thể nhé:
 
@@ -13,9 +13,9 @@ Chuẩn hóa Giao tiếp và Trách nhiệm nhóm: Vòng lặp đóng, Họp nha
 - Nếu cậu không kịp hoặc đang bận, nhắn lại cho mình TRƯỚC
    22:00 hôm nay để mình sắp xếp người khác nhé.
 
-Cảm ơn cậu nhiều! 
+Cảm ơn cậu nhiều! <br>
 
-**Task 2: Kịch bản fast meeting **
+Task 2: Kịch bản fast meeting 
 -
 - 3 CÂU HỎI BẮT BUỘC MỖI NGƯỜI:                              
 + Tuần vừa rồi mình đã XONG phần nào?                      
@@ -30,9 +30,10 @@ Cảm ơn cậu nhiều!
 | **Số người nói** | 1–2 người nói nhiều, còn lại im | **Tất cả 4 người đều nói**, mỗi người 1 lượt |
 | **Kết quả** | Không có action item rõ ràng | **Có bảng Action Items** với người + hạn |
 | **Vấn đề sâu** | Bàn ngay → hết giờ | **Tách ra họp riêng** sau |
+<br>
 
-**Task 3: SBI**
-
+Task 3: SBI
+-
 - S: Mình muốn nói về chuyện bài nhóm mình tuần này. Cụ thể là
 hôm Thứ Sáu vừa rồi, cả nhóm mình đã hẹn nhau là phần báo
 cáo Word sẽ chốt xong trước 21:00 tối đó, để bạn làm slide kịp lấy nội
